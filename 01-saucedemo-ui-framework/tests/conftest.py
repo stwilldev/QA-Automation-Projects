@@ -8,9 +8,9 @@ def driver():
 
     # Automatically switch to headless mode in Github Actions CI
     if os.environ.get("CI"):
-        options.add_argument(--headless=new")
+        options.add_argument("--headless=new")
         options.add_argument("--no-sandbox")
-        options.add_argument(--disable-dev-shm-usage")
+        options.add_argument("--disable-dev-shm-usage")
         options.add_argument("--disable-gpu")
     else:
         options.add_argument("--start-maximized")
