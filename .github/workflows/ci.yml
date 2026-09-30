@@ -3,8 +3,11 @@ name: Saucedemo UI Automation CI
 on:
   push:
     branches: [ main ]
+    paths:
+      - '01-saucedemo-ui-framework/**'
+      - '.github/workflows/**'
   pull_request:
-    branches: [ main ]
+      branches: [ main ]
 
 jobs:
   test:
