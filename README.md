@@ -1,6 +1,7 @@
+
 # QA Automation & SDET Portfolio
 
-Welcome to my central repository for Software Quality Assurance and SDET automation projects. This collection showcases modern test automation frameworks built with Python, emphasizing clean architecture, industry-standard design patterns, and continuous integration.
+Welcome to my central repository for Software Quality Assurance and SDET automation projects. This collection showcases modern test suites, automation frameworks, and application logic built with Python, emphasizing clean architecture, industry-standard design patterns, and continuous integration.
 
 ---
 
@@ -16,6 +17,11 @@ Welcome to my central repository for Software Quality Assurance and SDET automat
 * **Architecture:** Service Client Pattern for clean separation of API request logic and test assertions.
 * **Key Highlights:** Features automated REST response validation, JSON payload parsing, and a fully integrated GitHub Actions CI/CD cloud pipeline.
 
+### 3. Contact Management Application (`03-contact-book-app`)
+* **Tech Stack:** Python
+* **Architecture:** Modular backend script handling structured data storage and retrieval.
+* **Key Highlights:** Features local runtime management and browser-integrated data display/output handling.
+
 ---
 
 ## 🛠️ Core Competencies & Skills
@@ -23,3 +29,5 @@ Welcome to my central repository for Software Quality Assurance and SDET automat
 * **Automation Tools:** Selenium WebDriver, PyTest, Requests
 * **Design Patterns:** Page Object Model (POM), Service Client Pattern
 * **CI/CD & DevOps:** GitHub Actions, Git version control
+
+Thank you!
