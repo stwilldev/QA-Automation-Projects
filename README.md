@@ -5,9 +5,9 @@ Welcome to my central repository for Software Quality Assurance and SDET automat
 
 ---
 
-## 📂 Featured Projects
+Featured Projects
 
-### 1. SauceDemo E2E UI Automation Framework (`01-saucetesting-ui-framework`)
+1. SauceDemo E2E UI Automation Framework (`01-saucetesting-ui-framework`)
 * **Tech Stack:** Python, Selenium WebDriver, PyTest
 * **Architecture:** Page Object Model (POM) design pattern separating page locators and actions from test scripts.
 * **Key Highlights:** Implements explicit waits (`WebDriverWait`) for dynamic element handling and modular browser fixture management.
